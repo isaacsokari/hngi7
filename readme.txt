@@ -1,0 +1,1 @@
+This is the "readme.txt" file committed and pushed to the repo per the task 1 requirements of HNGi7. 
